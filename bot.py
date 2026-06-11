@@ -7,7 +7,7 @@ import requests
 from yt_dlp import YoutubeDL
 
 # Telegram Bot configuration
-BOT_TOKEN = '8864810691:AAHo1s3tnT_8xfd2FjzWKxALuQcE3EeKOvs'
+BOT_TOKEN = '8864810691:AAHfjqE0EUJzrRmtSB7UCNMKGKbwP1rBeg4'
 BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}'
 
 # File to temporarily store video links for users
